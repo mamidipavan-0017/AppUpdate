@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.6"
+    "react-native": "0.73.6",
+    "react-native-device-info": "^10.13.1",
+    "sp-react-native-in-app-updates": "^1.4.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
